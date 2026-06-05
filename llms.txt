@@ -1,0 +1,45 @@
+CAD Block Finder
+
+CAD Block Finder is a practical cad studio workspace for interior detailer teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://finder.freecadworld.com/
+- https://finder.freecadworld.com/tool/
+- https://finder.freecadworld.com/workspace/
+- https://finder.freecadworld.com/reports/
+- https://finder.freecadworld.com/guides/
+- https://finder.freecadworld.com/library/
+- https://finder.freecadworld.com/templates/
+- https://finder.freecadworld.com/compare/
+- https://finder.freecadworld.com/checklists/
+- https://finder.freecadworld.com/integrations/
+- https://finder.freecadworld.com/settings/
+- https://finder.freecadworld.com/plans/
+- https://finder.freecadworld.com/faq/
+- https://finder.freecadworld.com/privacy/
+- https://finder.freecadworld.com/about/
+- https://finder.freecadworld.com/guides/preflight-a-dwg-package-1/
+- https://finder.freecadworld.com/guides/standardize-a-drawing-set-2/
+- https://finder.freecadworld.com/guides/prepare-a-client-handoff-3/
+- https://finder.freecadworld.com/guides/audit-a-template-4/
+- https://finder.freecadworld.com/guides/compare-block-options-5/
+- https://finder.freecadworld.com/guides/document-drawing-assumptions-6/
+- https://finder.freecadworld.com/guides/preflight-a-dwg-package-7/
+- https://finder.freecadworld.com/guides/standardize-a-drawing-set-8/
+- https://finder.freecadworld.com/guides/prepare-a-client-handoff-9/
+- https://finder.freecadworld.com/guides/audit-a-template-10/
+- https://finder.freecadworld.com/guides/compare-block-options-11/
+- https://finder.freecadworld.com/guides/document-drawing-assumptions-12/
+- https://finder.freecadworld.com/guides/preflight-a-dwg-package-13/
+- https://finder.freecadworld.com/guides/standardize-a-drawing-set-14/
+- https://finder.freecadworld.com/guides/prepare-a-client-handoff-15/
+- https://finder.freecadworld.com/guides/audit-a-template-16/
+- https://finder.freecadworld.com/guides/compare-block-options-17/
+- https://finder.freecadworld.com/guides/document-drawing-assumptions-18/
+- https://finder.freecadworld.com/guides/preflight-a-dwg-package-19/
+- https://finder.freecadworld.com/guides/standardize-a-drawing-set-20/
+- https://finder.freecadworld.com/guides/prepare-a-client-handoff-21/
+- https://finder.freecadworld.com/guides/audit-a-template-22/
+- https://finder.freecadworld.com/guides/compare-block-options-23/
+- https://finder.freecadworld.com/guides/document-drawing-assumptions-24/
+- https://finder.freecadworld.com/guides/preflight-a-dwg-package-25/
